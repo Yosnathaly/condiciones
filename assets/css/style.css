@@ -1,0 +1,21 @@
+.container{
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imagen{
+    min-height: 50vh;
+    width: 600px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+img{
+    width: 100%;
+}
